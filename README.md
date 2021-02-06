@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/farahmarieee/devopsSample/_apis/build/status/mariefarahd1.devops-project-samples?branchName=master)](https://dev.azure.com/farahmarieee/devopsSample/_build/latest?definitionId=11&branchName=master)
 
 # Contributing
 
